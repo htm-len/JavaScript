@@ -22,4 +22,5 @@ const myNewString = `${myString[0].toUpperCase()}${myString.slice(1)}`;
 /*
 Solution 3: Uses template literals for cleaner syntax. ${myString[0].toUpperCase()} capitalizes the first letter, and ${myString.slice(1)} retrieves the rest of the string.
 */
+
 console.log(myNewString); // 'Developer'
