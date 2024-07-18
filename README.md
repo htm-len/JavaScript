@@ -10,6 +10,15 @@
 </p>
 
 <h1 align="center">What You'll Learn</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Fundamentals-✓-brightgreen" alt="Fundamentals Badge" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/JS%20Works-✓-brightgreen" alt="JS Works Badge" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/DOM%20%26%20Events-✓-brightgreen" alt="DOM & Events Badge" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Async%20JS-✓-brightgreen" alt="Async JS Badge" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/OOP-✓-brightgreen" alt="OOP Badge" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Tooling%20%26%20Workflow-✓-brightgreen" alt="Tooling & Workflow Badge" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Project-✓-brightgreen" alt="Full Stack Project Badge" style="margin-right: 10px;">
+</p>
 
 <p align="center">
   <strong>Learn the Fundamentals</strong>: Variables, Loops, Functions, etc.<br>
