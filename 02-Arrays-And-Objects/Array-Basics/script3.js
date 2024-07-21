@@ -16,8 +16,9 @@ x = numbers.length;
 
 fruits[5] = 'grape';
 
-fruits.length = 2;
+fruits[length.length] = 'blueberry';
+fruits[length.length] = 'peach';
 
 x = fruits
 
-console.log(fruits);
+console.log(x);
